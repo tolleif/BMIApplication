@@ -100,6 +100,7 @@
                     android:text="@string/calculateButton"
                     android:layout_gravity="center_horizontal"
                     android:layout_alignParentStart="true"
+                    android:layout_alignParentLeft="true"
                     android:background="#ff244269"
                     android:textStyle="bold"
                     android:padding="10dp" />
